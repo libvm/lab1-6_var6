@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\admin\source\repos\lab5_var6\x64\Debug\lab5_var6.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="lab5_var6.EqualSizeOfRowsAndCols" Duration="1" />
+    <TestDuration Test="lab5_var6.DifferentSizeOfRowsAndCols" Duration="1" />
+    <TestDuration Test="lab5_var6.AllNegative" Duration="1" />
+    <TestDuration Test="lab5_var6.EmptyArray" Duration="15" />
+  </TestDurations>
+</GtaTestDurations>

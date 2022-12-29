@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2682d2ab_002D7c77_002D41e6_002D9bd4_002D701258702177/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DifferentSizeOfRowsAndCols" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;GTest::4D83A71E-EB2C-42B1-8012-5BD55B0B5100::Windows,Version=v10.0.22621::lab5_var6.DifferentSizeOfRowsAndCols&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::4D83A71E-EB2C-42B1-8012-5BD55B0B5100::Windows,Version=v10.0.22621::lab5_var6.EqualSizeOfRowsAndCols&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
